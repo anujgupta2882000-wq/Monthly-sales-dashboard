@@ -1,7 +1,7 @@
 
 # Monthly-sales-dashboard<br>
 
-1.**⭐ Project Title / Headline**<br>
+1.**⭐ Project Title / Headline**<br><br>
 **Sales Analytics: 📈 Monthly sales growth insights dashboard**<br>
 
 A dynamic and Interactive Monthly Sales Dashboard provides a comprehensive view of sales performance by transforming raw data into meaningful insights. <br><br>
@@ -15,7 +15,7 @@ The Dynamic and Interactive Monthly Sales Dashboard provides a clear and central
 The primary purpose of this dashboard is to support informed, data-driven decision-making by delivering timely and actionable insights. It helps sales managers, business analysts, and stakeholders track progress against business goals, evaluate product and regional performance.
 
 
-3 🛠️ Tech Stack
+3 🛠️ Tech Stack<br><br>
 
 🐍 **Python (Pandas):** Used for data cleaning, preprocessing, handling missing values, and preparing the dataset for analysis.<br><br>
 🗄️ **SQL:** Used to extract, filter, and organize data efficiently from the database using optimized queries.<br><br>
@@ -26,7 +26,7 @@ The primary purpose of this dashboard is to support informed, data-driven decisi
 🎨 **Dashboard Formatting:** Applied consistent themes, conditional formatting, slicers, tooltips, and interactive visuals to improve usability and enhance the overall user experience.<br><br>
 
 
-4. 📂 Data Source
+4. 📂 Data Source<br><br>
 
 The dataset used for this project was obtained from **Kaggle**. It contains monthly sales data, including information on orders, products, customers, revenue, and profit. The data was cleaned and preprocessed using **Python (Pandas)** and **SQL** before being transformed into an interactive **Power BI** dashboard for analysis and visualization.<br>
 
@@ -44,7 +44,7 @@ The dataset used for this project was obtained from **Kaggle**. It contains mont
 🏆 Which products are the top-performing and least-performing?<br>
 🌍 Which regions or locations generate the highest sales?<br>
 
-6.Screenshots / Demos<br>
+6.Screenshots / Demos<br><br>
 Show what the dashboard looks like.Example<br>
 
 ![image alt](https://github.com/anujgupta2882000-wq/Monthly-sales-dashboard/blob/main/Snapshot%20of%20the%20dashboard.png?raw=true)
