@@ -4,24 +4,24 @@
 1.**⭐ Project Title / Headline**
 **Sales Analytics: 📈 Monthly sales growth insights dashboard**
 
-A dynamic and Interactive Monthly Sales Dashboard provides a comprehensive view of sales performance by transforming raw data into meaningful insights. 
+A dynamic and Interactive Monthly Sales Dashboard provides a comprehensive view of sales performance by transforming raw data into meaningful insights. <br>
 
       
 2. 📌Short Description / purpose
 
 The Dynamic and Interactive Monthly Sales Dashboard provides a clear and centralized view of monthly sales performance through interactive charts and key performance indicators (KPIs). It helps users monitor sales trends, revenue, profit, and product performance while enabling quick, data-driven decisions. The dashboard is designed to simplify reporting, identify growth opportunities, and improve overall business performance.
 
-
+<br>
 The primary purpose of this dashboard is to support informed, data-driven decision-making by delivering timely and actionable insights. It helps sales managers, business analysts, and stakeholders track progress against business goals, evaluate product and regional performance.
 
 
 3 🛠️ Tech Stack
 
-🐍 **Python (Pandas):** Used for data cleaning, preprocessing, handling missing values, and preparing the dataset for analysis.
-🗄️ **SQL:** Used to extract, filter, and organize data efficiently from the database using optimized queries.
-📊 **Power BI:** Used to design and build an interactive dashboard with insightful visualizations and business-friendly reports.
-📈 **DAX (Data Analysis Expressions):** Used to create calculated measures, KPIs, and custom business logic for deeper sales analysis.
-⚡ **Power Query:** Used for data transformation, merging tables, and creating a clean and structured data model.
+🐍 **Python (Pandas):** Used for data cleaning, preprocessing, handling missing values, and preparing the dataset for analysis.<br>
+🗄️ **SQL:** Used to extract, filter, and organize data efficiently from the database using optimized queries.<br>
+📊 **Power BI:** Used to design and build an interactive dashboard with insightful visualizations and business-friendly reports.<br>
+📈 **DAX (Data Analysis Expressions):** Used to create calculated measures, KPIs, and custom business logic for deeper sales analysis.<br>
+⚡ **Power Query:** Used for data transformation, merging tables, and creating a clean and structured data model.<br>
 
 🎨 **Dashboard Formatting:** Applied consistent themes, conditional formatting, slicers, tooltips, and interactive visuals to improve usability and enhance the overall user experience.
 
