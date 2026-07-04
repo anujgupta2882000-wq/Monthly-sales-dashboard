@@ -6,6 +6,7 @@
 
 A dynamic and Interactive Monthly Sales Dashboard provides a comprehensive view of sales performance by transforming raw data into meaningful insights. 
 
+      
 2. 📌Short Description / purpose
 
 The Dynamic and Interactive Monthly Sales Dashboard provides a clear and centralized view of monthly sales performance through interactive charts and key performance indicators (KPIs). It helps users monitor sales trends, revenue, profit, and product performance while enabling quick, data-driven decisions. The dashboard is designed to simplify reporting, identify growth opportunities, and improve overall business performance.
